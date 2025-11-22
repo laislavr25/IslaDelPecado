@@ -39,7 +39,10 @@ URL Ranks by DiscoPeligro.
         "Shirou1711",
         "OsitoPauPau",
         "_Viscochin_",
-        "Roxytooty"
+        "Roxytooty",
+        "Erill․♥",
+        "ღᴋᴀᴍɪᴍɪ",
+        "misi-quest"
     ],
     "DJ": [
         "VACIOaaaaaaaaa"
