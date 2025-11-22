@@ -26,7 +26,8 @@ URL Ranks by DiscoPeligro.
         "_Wilker_DSoto"
     ],
     "VIPManager": [
-        "Nastic Hope"
+        "Nastic Hope",
+        "Sainthe"
     ],
     "Seguridad": [
         "VACIOaaaaaaaa"
