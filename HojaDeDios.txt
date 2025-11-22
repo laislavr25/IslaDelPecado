@@ -1,7 +1,7 @@
 URL Ranks by DiscoPeligro.
 {
   "Owner": ["GERMAN002"],
-  "Co-owner1": ["ShadowN01"],
+  "Co-owner1": ["ShadowN01", "ISLA DEL PECADO"],
   "Co-owner2": ["Konflakes"],
   "Co-owner3": ["mrbb88"],
   "Co-owner4": ["Rohan"],
