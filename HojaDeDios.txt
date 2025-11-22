@@ -1,6 +1,18 @@
 URL Ranks by DiscoPeligro.
 {
-    "VIP": [
-        "Sainthe.."
-    ]
+  "Owner": ["GERMAN002"],
+  "Co-owner1": ["ShadowN01", "ISLA DEL PECADO"],
+  "Co-owner2": ["Konflakes"],
+  "Co-owner3": ["mrbb88"],
+  "Co-owner4": ["Rohan"],
+  "Co-owner5": ["CAROL_RM"],
+  "InversorA": ["Vacio"],
+  "InversorB": ["Vacio"],
+  "VIPManager": ["Vacio"],
+  "Seguridad": ["Vacio"],
+  "ManagerDancer": ["Vacio"],
+  "Dancer": ["Vacio"],
+  "DJ": ["Vacio"],
+  "Partner": ["Vacio"],
+  "VIP": ["Vacio"]
 }
