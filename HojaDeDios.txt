@@ -1,11 +1,11 @@
 URL Ranks by DiscoPeligro.
 {
-  "Owner": ["German"],
-  "Co-owner1": ["Shadow"],
+  "Owner": ["GERMAN002"],
+  "Co-owner1": ["ShadowN01"],
   "Co-owner2": ["Konflakes"],
-  "Co-owner3": ["MrBB"],
+  "Co-owner3": ["mrbb88"],
   "Co-owner4": ["Rohan"],
-  "Co-owner5": ["Carol"],
+  "Co-owner5": ["CAROL_RM"],
   "InversorA": ["Vacio"],
   "InversorB": ["Vacio"],
   "VIPManager": ["Vacio"],
