@@ -40,5 +40,11 @@ URL Ranks by DiscoPeligro.
     ],
     "DJ": [
         "VACIOaaaaaaaaa"
+    ],
+    "Partner": [
+        "Mo0nlii",
+        "ღ N O X Y ღ",
+        "ᴄ ʜ ᴀ ʀ ʟ ᴇ s 亗",
+        "Likelyz"
     ]
 }
