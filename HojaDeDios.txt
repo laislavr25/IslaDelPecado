@@ -36,10 +36,17 @@ URL Ranks by DiscoPeligro.
         "VACIOaaaaaaaaaa"
     ],
     "Dancer": [
-        "VACIOaaaaaaaaa"
+        "Shirou1711",
+        "OsitoPauPau",
+        "_Viscochin_",
+        "Roxytooty"
     ],
     "DJ": [
         "VACIOaaaaaaaaa"
+    ],
+    "VIP": [
+        "LaNubi23",
+        "Tommy1313"
     ],
     "Partner": [
         "Mo0nlii",
