@@ -46,7 +46,9 @@ URL Ranks by DiscoPeligro.
     ],
     "VIP": [
         "LaNubi23",
-        "Tommy1313"
+        "Tommy1313",
+        "Bymaxter23",
+        "ღPastelito"
     ],
     "Partner": [
         "Mo0nlii",
