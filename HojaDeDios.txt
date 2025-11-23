@@ -54,6 +54,9 @@ URL Ranks by DiscoPeligro.
         "Houltler",
         "Zaykran"
     ],
+    "InversorC": [
+        "asdasdasdadasd"
+    ],
     "VIP": [
         "LaNubi23",
         "Tommy1313",
