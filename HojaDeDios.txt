@@ -45,7 +45,8 @@ URL Ranks by DiscoPeligro.
         "VACIOaaaaaaaaa"
     ],
     "ManagerDancer": [
-        "konflakes_"
+        "konflakes_",
+        "ღItzAkaneღ"
     ],
     "VIP": [
         "LaNubi23",
