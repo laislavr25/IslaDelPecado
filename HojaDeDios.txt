@@ -55,7 +55,7 @@ URL Ranks by DiscoPeligro.
         "Zaykran"
     ],
     "InversorC": [
-        "asdasdasdadasd"
+        "GREAT_ONE"
     ],
     "VIP": [
         "LaNubi23",
