@@ -29,9 +29,6 @@ URL Ranks by DiscoPeligro.
         "Nastic Hope",
         "Sainthe"
     ],
-    "Seguridad": [
-        "VACIOaaaaaaaa"
-    ],
     "Dancer": [
         "Shirou1711",
         "OsitoPauPau",
@@ -47,6 +44,12 @@ URL Ranks by DiscoPeligro.
     "ManagerDancer": [
         "konflakes_",
         "ღItzAkaneღ"
+    ],
+    "Seguridad": [
+        "KazumiiVT",
+        "naelvl3",
+        "༒d̷a̷r̷i̷1̷8̷༒",
+        "NaranjitaACN"
     ],
     "VIP": [
         "LaNubi23",
