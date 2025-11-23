@@ -23,7 +23,7 @@ URL Ranks by DiscoPeligro.
         "SweetMochi0"
     ],
     "InversorB": [
-        "_Wilker_DSoto"
+        "_Wilker_D_Soto_"
     ],
     "VIPManager": [
         "Nastic Hope",
@@ -57,8 +57,7 @@ URL Ranks by DiscoPeligro.
         "Bymaxter23",
         "ღPastelito",
         "c1geerzs",
-        "GREAT_ONE",
-        "Zaykran"
+        "GREAT_ONE"
     ],
     "Partner": [
         "Mo0nlii",
