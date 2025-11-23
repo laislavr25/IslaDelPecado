@@ -32,9 +32,6 @@ URL Ranks by DiscoPeligro.
     "Seguridad": [
         "VACIOaaaaaaaa"
     ],
-    "ManagerDancer": [
-        "VACIOaaaaaaaaaa"
-    ],
     "Dancer": [
         "Shirou1711",
         "OsitoPauPau",
@@ -46,6 +43,9 @@ URL Ranks by DiscoPeligro.
     ],
     "DJ": [
         "VACIOaaaaaaaaa"
+    ],
+    "ManagerDancer": [
+        "konflakes_"
     ],
     "VIP": [
         "LaNubi23",
