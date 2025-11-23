@@ -49,7 +49,8 @@ URL Ranks by DiscoPeligro.
         "KazumiiVT",
         "naelvl3",
         "༒d̷a̷r̷i̷1̷8̷༒",
-        "NaranjitaACN"
+        "NaranjitaACN",
+        "Nelson_KAELA"
     ],
     "VIP": [
         "LaNubi23",
