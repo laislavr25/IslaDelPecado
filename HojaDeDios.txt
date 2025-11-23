@@ -71,6 +71,7 @@ URL Ranks by DiscoPeligro.
         "ღ N O X Y ღ",
         "ᴄ ʜ ᴀ ʀ ʟ ᴇ s 亗",
         "Likelyz",
-        "Edielღ༒"
+        "Edielღ༒",
+        "Tamamo Yuki"
     ]
 }
