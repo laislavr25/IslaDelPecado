@@ -51,7 +51,9 @@ URL Ranks by DiscoPeligro.
         "LaNubi23",
         "Tommy1313",
         "Bymaxter23",
-        "ღPastelito"
+        "ღPastelito",
+        "c1geerzs",
+        "GREAT_ONE"
     ],
     "Partner": [
         "Mo0nlii",
