@@ -64,7 +64,17 @@ URL Ranks by DiscoPeligro.
         "ღPastelito",
         "c1geerzs",
         "GREAT_ONE",
-        "SyxzZ__"
+        "SyxzZ__",
+        "Teeete",
+        "monitas_chinas",
+        "MikuShy",
+        "misi-quest",
+        "John Wipe",
+        "Prototipo0121",
+        "Roxytooty",
+        "_Viscochin_",
+        "KittyKatt__",
+        "S0mbrr4"
     ],
     "Partner": [
         "Mo0nlii",
