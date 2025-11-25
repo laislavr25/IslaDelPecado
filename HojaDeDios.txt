@@ -74,7 +74,13 @@ URL Ranks by DiscoPeligro.
         "Roxytooty",
         "_Viscochin_",
         "KittyKatt__",
-        "S0mbrr4"
+        "S0mbrr4",
+        "LuzAzul1203",
+        "Soso 2020",
+        "Koco_6",
+        "Diva_Virtual",
+        "Panzer911",
+        "ZONDA 死神"
     ],
     "Partner": [
         "Mo0nlii",
