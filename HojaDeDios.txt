@@ -80,7 +80,9 @@ URL Ranks by DiscoPeligro.
         "Koco_6",
         "Diva_Virtual",
         "Panzer911",
-        "ZONDA 死神"
+        "ZONDA 死神",
+        "AndreaAlejandra",
+        "Shirou1711"
     ],
     "Partner": [
         "Mo0nlii",
