@@ -103,7 +103,11 @@ URL Ranks by DiscoPeligro.
         "E V E L Y N_",
         "ღLionღ",
         "Alpha_on",
-        "ღ April ღ"
+        "ღ April ღ",
+        "DRAGON-X-",
+        "TʀɨֆTɛֆʊƈʊɮօ",
+        "Zairu Nakamura",
+        "「Zeta」"
     ],
     "Partner": [
         "Mo0nlii",
