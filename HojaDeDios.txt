@@ -82,7 +82,11 @@ URL Ranks by DiscoPeligro.
         "Panzer911",
         "ZONDA 死神",
         "AndreaAlejandra",
-        "Shirou1711"
+        "Shirou1711",
+        "El_Salao_PR",
+        "ilimusa",
+        "ilimusa",
+        "El_Salao_PR"
     ],
     "Partner": [
         "Mo0nlii",
