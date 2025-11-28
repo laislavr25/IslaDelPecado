@@ -109,7 +109,8 @@ URL Ranks by DiscoPeligro.
         "DRAGON-X-",
         "TʀɨֆTɛֆʊƈʊɮօ",
         "Zairu Nakamura",
-        "「Zeta」"
+        "「Zeta」",
+        "Arq_Rm"
     ],
     "Partner": [
         "Mo0nlii",
