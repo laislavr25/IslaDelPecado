@@ -54,7 +54,8 @@ URL Ranks by DiscoPeligro.
         "NaranjitaACN",
         "Nelson_KAELA",
         "Houltler",
-        "Zaykran"
+        "Zaykran",
+        "KazumiiVT"
     ],
     "InversorC": [
         "GREAT_ONE"
@@ -118,6 +119,9 @@ URL Ranks by DiscoPeligro.
         "ᴄ ʜ ᴀ ʀ ʟ ᴇ s 亗",
         "Likelyz",
         "Edielღ༒",
-        "Tamamo Yuki"
+        "Tamamo Yuki",
+        "wgoodnightw",
+        "c1geerzs",
+        "Akihide"
     ]
 }
