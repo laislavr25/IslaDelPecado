@@ -46,14 +46,12 @@ URL Ranks by DiscoPeligro.
         "ღItzAkaneღ"
     ],
     "Seguridad": [
-        "KazumiiVT",
         "naelvl3",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "NaranjitaACN",
         "Nelson_KAELA",
         "Houltler",
-        "Zaykran",
-        "KazumiiVT"
+        "Zaykran"
     ],
     "InversorC": [
         "GREAT_ONE"
