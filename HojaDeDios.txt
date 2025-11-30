@@ -68,7 +68,7 @@ URL Ranks by DiscoPeligro.
         "c1geerzs"
     ],
     "Akihide": [
-        "adsad"
+        "."
     ],
     "VIP": [
         "LaNubi23",
