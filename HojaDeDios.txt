@@ -111,7 +111,8 @@ URL Ranks by DiscoPeligro.
         "TʀɨֆTɛֆʊƈʊɮօ",
         "Zairu Nakamura",
         "「Zeta」",
-        "Arq_Rm"
+        "Arq_Rm",
+        "moooniiieee"
     ],
     "Partner": [
         "Mo0nlii",
