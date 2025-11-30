@@ -68,7 +68,7 @@ URL Ranks by DiscoPeligro.
     "Pompompurin": [
         "c1geerzs"
     ],
-    "InversorD": [
+    "Akihide": [
         "SugarLoliUwU"
     ],
     "VIP": [
