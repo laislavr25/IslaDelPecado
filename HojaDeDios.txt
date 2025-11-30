@@ -65,10 +65,10 @@ URL Ranks by DiscoPeligro.
         "KazumiiVT"
     ],
     "Pompompurin": [
-        "c1geerzs"
+        "c1geerzs",
+        "Sainthe"
     ],
     "Akihide": [
-        "Sainthe",
         "adsad"
     ],
     "VIP": [
