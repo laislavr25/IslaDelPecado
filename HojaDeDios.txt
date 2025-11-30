@@ -69,7 +69,6 @@ URL Ranks by DiscoPeligro.
         "c1geerzs"
     ],
     "Akihide": [
-        "Akihide",
         "SugarLoliUwU"
     ],
     "VIP": [
