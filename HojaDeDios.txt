@@ -26,8 +26,7 @@ URL Ranks by DiscoPeligro.
         "_Wilker_D_Soto_"
     ],
     "VIPManager": [
-        "Nastic Hope",
-        "Sainthe"
+        "Nastic Hope"
     ],
     "Dancer": [
         "Shirou1711",
@@ -69,7 +68,8 @@ URL Ranks by DiscoPeligro.
         "c1geerzs"
     ],
     "Akihide": [
-        "Sainthe"
+        "Sainthe",
+        "adsad"
     ],
     "VIP": [
         "LaNubi23",
