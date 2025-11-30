@@ -60,6 +60,18 @@ URL Ranks by DiscoPeligro.
     "InversorC": [
         "GREAT_ONE"
     ],
+    "BloodNight": [
+        "wgoodnightw"
+    ],
+    "AdminFemboy": [
+        "KazumiiVT"
+    ],
+    "Pompompurin": [
+        "c1geerzs"
+    ],
+    "Akihide": [
+        "Akihide"
+    ],
     "VIP": [
         "LaNubi23",
         "Tommy1313",
