@@ -113,7 +113,8 @@ URL Ranks by DiscoPeligro.
         "「Zeta」",
         "Arq_Rm",
         "moooniiieee",
-        "JohnHdz d4d4"
+        "JohnHdz d4d4",
+        "MiaStrawberry"
     ],
     "Partner": [
         "Mo0nlii",
