@@ -48,7 +48,6 @@ URL Ranks by DiscoPeligro.
         "ღItzAkaneღ"
     ],
     "Seguridad": [
-        "naelvl3",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "NaranjitaACN",
         "Nelson_KAELA",
