@@ -52,7 +52,8 @@ URL Ranks by DiscoPeligro.
         "NaranjitaACN",
         "Nelson_KAELA",
         "Houltler",
-        "Zaykran"
+        "Zaykran",
+        "naelvl3"
     ],
     "InversorC": [
         "GREAT_ONE"
