@@ -25,10 +25,6 @@ URL Ranks by DiscoPeligro.
     "InversorB": [
         "_Wilker_D_Soto_"
     ],
-    "VIPManager": [
-        "Nastic Hope",
-        "Sainthe"
-    ],
     "Dancer": [
         "Shirou1711",
         "OsitoPauPau",
@@ -64,6 +60,9 @@ URL Ranks by DiscoPeligro.
     ],
     "Pompompurin": [
         "c1geerzs"
+    ],
+    "VIPManager": [
+        "Sainthe"
     ],
     "Akihide": [
         "Akihide"
