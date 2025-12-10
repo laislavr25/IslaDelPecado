@@ -125,7 +125,8 @@ URL Ranks by DiscoPeligro.
         "moooniiieee",
         "JohnHdz d4d4",
         "MiaStrawberry",
-        "Kai-ly"
+        "Kai-ly",
+        "SofiiStoormy"
     ],
     "Partner": [
         "Mo0nlii",
