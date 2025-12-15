@@ -33,7 +33,8 @@ URL Ranks by DiscoPeligro.
         "Erill․♥",
         "ღᴋᴀᴍɪᴍɪ",
         "misi-quest",
-        "Pamelachuu"
+        "Pamelachuu",
+        "ReikaVermysthra"
     ],
     "DJ": [
         "VACIOaaaaaaaaa"
@@ -73,11 +74,10 @@ URL Ranks by DiscoPeligro.
     "VIP": [
         "LaNubi23",
         "Tommy1313",
-        "Bymaxter23",
-        "ღPastelito",
         "c1geerzs",
         "GREAT_ONE",
         "SyxzZ__",
+        "Abyrys3",
         "Teeete",
         "monitas_chinas",
         "MikuShy",
