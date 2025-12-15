@@ -137,6 +137,10 @@ URL Ranks by DiscoPeligro.
         "Tamamo Yuki",
         "wgoodnightw",
         "c1geerzs",
-        "Akihide"
+        "Akihide",
+        "armelon",
+        "ivannanana",
+        "JavaBean123",
+        "ʚGabbyɞ"
     ]
 }
