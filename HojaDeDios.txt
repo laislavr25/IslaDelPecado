@@ -48,7 +48,7 @@ URL Ranks by DiscoPeligro.
         "NaranjitaACN",
         "Nelson_KAELA",
         "Houltler",
-        "naelvl3"
+        "NΛΣŁ"
     ],
     "InversorC": [
         "GREAT_ONE"
@@ -124,7 +124,7 @@ URL Ranks by DiscoPeligro.
         "Arq_Rm",
         "moooniiieee",
         "JohnHdz d4d4",
-        "MiaStrawberry",
+        "Sleepyprincessº",
         "Kai-ly",
         "SofiiStoormy"
     ],
