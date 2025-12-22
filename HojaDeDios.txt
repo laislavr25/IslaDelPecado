@@ -71,6 +71,9 @@ URL Ranks by DiscoPeligro.
     "Host": [
         "Zaykran"
     ],
+    "Elixir": [
+        "poisonliz"
+    ],
     "VIP": [
         "LaNubi23",
         "Tommy1313",
