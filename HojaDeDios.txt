@@ -72,7 +72,11 @@ URL Ranks by DiscoPeligro.
         "Zaykran"
     ],
     "Elixir": [
-        "poisonliz"
+        "poisonliz",
+        "๛Ryu๛",
+        "tori_cole",
+        "DEVILZOO_",
+        "Aurelian796"
     ],
     "VIP": [
         "LaNubi23",
