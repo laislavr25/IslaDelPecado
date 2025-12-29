@@ -85,10 +85,6 @@ URL Ranks by DiscoPeligro.
         "GREAT_ONE",
         "SyxzZ__",
         "Abyrys3",
-        "Arq_Rm",
-        "JohnHdz d4d4",
-        "Sleepyprincessº",
-        "Kai-ly",
         "SofiiStoormy"
     ],
     "Partner": [
