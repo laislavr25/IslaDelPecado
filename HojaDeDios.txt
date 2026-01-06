@@ -85,7 +85,9 @@ URL Ranks by DiscoPeligro.
         "GREAT_ONE",
         "SyxzZ__",
         "Abyrys3",
-        "SofiiStoormy"
+        "SofiiStoormy",
+        "TuTioElUrgido",
+        "LenaaTenshi"
     ],
     "Partner": [
         "Mo0nlii",
