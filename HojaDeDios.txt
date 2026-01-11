@@ -41,7 +41,8 @@ URL Ranks by DiscoPeligro.
     ],
     "ManagerDancer": [
         "konflakes_",
-        "ღItzAkaneღ"
+        "ღItzAkaneღ",
+        "RocketSaul"
     ],
     "Seguridad": [
         "༒d̷a̷r̷i̷1̷8̷༒",
@@ -81,19 +82,17 @@ URL Ranks by DiscoPeligro.
     "VIP": [
         "LaNubi23",
         "Tommy1313",
-        "c1geerzs",
+        "ღKookie",
         "GREAT_ONE",
         "SyxzZ__",
         "Abyrys3",
-        "SofiiStoormy",
         "TuTioElUrgido",
         "LenaaTenshi"
     ],
     "Partner": [
         "Mo0nlii",
-        "Likelyz",
-        "ᴄ ʜ ᴀ ʀ ʟ ᴇ s 亗",
-        "ღ N O X Y ღ",
+        "Kanekey",
+        "saddie420",
         "Edielღ༒",
         "wgoodnightw",
         "c1geerzs",
