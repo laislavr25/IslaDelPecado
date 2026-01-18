@@ -77,7 +77,8 @@ URL Ranks by DiscoPeligro.
         "๛Ryu๛",
         "tori_cole",
         "DEVILZOO_",
-        "Aurelian796"
+        "Aurelian796",
+        "GideonToffu"
     ],
     "VIP": [
         "LaNubi23",
@@ -95,7 +96,7 @@ URL Ranks by DiscoPeligro.
         "saddie420",
         "Edielღ༒",
         "wgoodnightw",
-        "c1geerzs",
+        "ღKookie",
         "Akihide",
         "armelon",
         "ivannanana",
