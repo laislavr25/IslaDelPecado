@@ -2,4 +2,5 @@ URL Ranks by DiscoPeligro.
 {
     "Owner": [
         "Sainthe"
-    ],
+    ]
+}
