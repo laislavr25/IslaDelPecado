@@ -35,6 +35,8 @@ URL Ranks by DiscoPeligro.
         "misi-quest",
         "Pamelachuu",
         "ReikaVermysthra",
+        "~Lady_Exo~",
+        "Huntercito",
         "EnzoNova",
         "Hekkah",
         "kfezito"
